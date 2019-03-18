@@ -30,6 +30,27 @@ public class DrawingBrushMainActivity extends Activity
    {
 	super.onCreate(savedInstanceState);
 
+	/*
+	*
+	*
+	*
+	*   HALLLO BENI
+	*
+	*
+	*
+	*
+	*
+	*
+	*
+	*
+	*
+	* */
+
+
+
+
+
+
 	/* Create new drawing brush event view instance */
 	DrawingBrushTouchEventView tv = new DrawingBrushTouchEventView(this);
 
