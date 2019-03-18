@@ -44,6 +44,7 @@ public class DrawingBrushMainActivity extends Activity
 	*
 	*
 	*
+	*
 	* */
 
 
@@ -66,5 +67,11 @@ public class DrawingBrushMainActivity extends Activity
    // TODO Auto-generated method stub
    super.onPause();
    finish();
+  }
+
+  private void HalloBeni(int beni){
+
+  	int hallo = beni;
+
   }
  }
