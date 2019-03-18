@@ -73,5 +73,7 @@ public class DrawingBrushMainActivity extends Activity
 
   	int hallo = beni;
 
+  	/* Kommentar */
+
   }
  }
